@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, #667eea, #336699);
+    background: #3498db;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -27,23 +27,32 @@ body {
     font-size: 36px;
     text-align: right;
     background-color: #121212;
-    border: 2px solid #fff;  /* <-- border added */
+    border: 2px solid #fff;
     margin-bottom: 10px;
     padding-right: 15px;
-    box-shadow: inset 0 0 8px rgba(0, 255, 204, 0.2); /* subtle inner glow */
+    box-shadow: inset 0 0 8px rgba(0, 255, 204, 0.2);
 }
 
 .btn {
     width: 70px;
     height: 70px;
-    border-radius: 25%;
     border: none;
     font-weight: bold;
     font-size: 24px;
     transition: all 0.2s ease-in-out;
 }
 
+.btn-zero {
+    border-radius: 5% !important;
+    background-color: #3e3e55;
+    color: #ffffff;
+
+
+
+}
+
 .btn-secondary {
+    border-radius: 15%;
     background-color: #3e3e55;
     color: #ffffff;
 }
