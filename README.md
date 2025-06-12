@@ -28,7 +28,7 @@
 
 | Calculator UI | Mobile View |
 |---------------|-------------|
-| ![Desktop View](assets/calculator-desktop.png) | ![Mobile View](assets/calculator-mobile.png) |
+| ![Desktop View](assets/calculator-desktop.png.png) | ![Mobile View](assets/calculator-mobile.png.png) |
 
 ---
 
